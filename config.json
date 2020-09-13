@@ -1,4 +1,5 @@
 {
     "token": "token",
+    "pathToFolder": "path",
     "guildId": "guildid"
 }
