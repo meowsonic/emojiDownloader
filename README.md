@@ -8,8 +8,9 @@ Downloading all custom emojis from selected guild(*with animated emojis support!
 2. Install packages (`npm install` or `yarn install`)
 3. Clone this project
 4. Set up your Discord bot [here](https://discordapp.com/developers)
-5. Set up config.json
-6. `npm start` or `yarn start`
+5. Create folder to save emojis
+6. Set up config.json
+7. `npm start` or `yarn start`
 
 Setting up a `config.json`
 ==========================
