@@ -16,4 +16,5 @@ Setting up a `config.json`
 | Configuration| Type   | Description                            | 
 |--------------|--------|----------------------------------------|
 | Token        | String | Your bot's access token                |
+| PathToFolder | String | Your path to folder with emojis        |
 | GuildId      | Number | Guild id from which to download emojis | 
